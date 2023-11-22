@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<students>
+    <student>
+        <id> 21 </id>
+        <name>Dev Singh</name>
+        <age>21</age>
+        <grade>A</grade>
+    </student>
+    
+    <student>
+        <id> 11 </id>
+        <name>Desika</name>
+        <age>21</age>
+        <grade>B+</grade>
+    </student>
+    
+    <student>
+        <id> 01 </id>
+        <name>Shiro </name>
+        <age>22</age>
+        <grade>C</grade>
+    </student>
+</students>
